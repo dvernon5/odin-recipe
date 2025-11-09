@@ -18,7 +18,9 @@ A simple recipe website built with HTML as part of [The Odin Project](https://ww
 ### Images
 - Lasagna photos by [Emanuel Ekström](https://unsplash.com/@emanuelekstrom) on Unsplash
 - Pizza photos by [Faizan Saeed](https://unsplash.com/@faizansaeed) on Unsplash
+- Fettuccine Alfredo by [montatip lilitsanong](https://unsplash.com/@montatip) on Unsplash
 
 ### Recipes
 - [World's Best Lasagna](https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/) - AllRecipes
 - [No-Yeast Pizza Crust](https://www.allrecipes.com/recipe/244638/no-yeast-pizza-crust/) - AllRecipes
+- [To Die For Fettuccine Alfredo](https://www.allrecipes.com/recipe/23431/to-die-for-fettuccine-alfredo/) - AllRecipes
